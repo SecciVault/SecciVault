@@ -1,8 +1,4 @@
 - 👋 Hi, We,re @SecciVault
--     Are you paying over 10% commission on your NFT sales?
--     Or have you previously encoutered a P2P scam?
--     No need to worry, SecciVault is here to help!🌱
-
 - 📫 Reach us over our Discord https://discord.gg/p7QUzwRYnB
 
 <!---
